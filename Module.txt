@@ -1,0 +1,8 @@
+﻿Name: Webshops
+AntiForgery: enabled
+Author: Vincent
+Website: http://orchardproject.net
+Version: 1.6
+OrchardVersion: 1.5
+Description: webshop demo
+Category: Webshop
